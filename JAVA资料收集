@@ -26,3 +26,11 @@ AI高级实战架构师课程链接：https://pan.baidu.com/s/1hJUF7vn_iRJfYsH_-
 多线程编程实战视频教程-第二阶段：链接：https://pan.baidu.com/s/1ir84rnwJ4irQNASyE1DwxA 密码：eua8
 Spring boot源码解析：链接：https://pan.baidu.com/s/1g_izQmz2_K_JApAlcfSOPw 密码：9nya
 Spring源码解读与设计详析：链接：https://pan.baidu.com/s/1-upkBnIp91nInZETxuntSQ 密码：o4mz
+
+
+项目监控：JProfiler
+Skywalking和Telegraf 我之前公司用过，Skywalking 主要是用链路和性能的监控，主要结合微服务应用，Telegraf 主要用于监控慢sql的和数据库IO，
+
+https://smooth.blog.csdn.net/article/details/102623877
+
+监控SQL调用链路监控spring cloud zikpin+kafka+mysql
