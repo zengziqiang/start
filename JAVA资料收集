@@ -31,6 +31,8 @@ Spring源码解读与设计详析：链接：https://pan.baidu.com/s/1-upkBnIp91
 项目监控：JProfiler
 Skywalking和Telegraf 我之前公司用过，Skywalking 主要是用链路和性能的监控，主要结合微服务应用，Telegraf 主要用于监控慢sql的和数据库IO，
 监控平台收集：https://smooth.blog.csdn.net/article/details/102623877
+Telegraf: https://www.bilibili.com/video/BV1gK4y1h7Bt?from=search&seid=2667447129980253072
+
 
 监控SQL调用链路监控spring cloud zikpin+kafka+mysql
 
