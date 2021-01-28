@@ -61,3 +61,13 @@ cd utils/
 ```
 /etc/init.d/redis_6379 restart
 ```
+##  自启脚本
+如果配置文件中有密码，需要在脚本中添加密码，不然没有权限报错
+
+如何设置开机自启 [https://blog.csdn.net/whatday/article/details/99965950/](https://blog.csdn.net/whatday/article/details/99965950/)
+
+参考博客【密码设置】：[https://www.cnblogs.com/bcde/p/10947521.html](https://www.cnblogs.com/bcde/p/10947521.html)
+
+参考脚本
+
+CSDN
