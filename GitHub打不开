@@ -1,0 +1,14 @@
+GitHub打不开
+分别打开以下三个网站：
+https://github.com.ipaddress.com/
+
+https://fastly.net.ipaddress.com/github.global.ssl.fastly.net
+
+https://github.com.ipaddress.com/assets-cdn.github.com
+
+修改hosts文件
+140.82.112.4 github.com【第一个链接】
+199.232.69.194 github.global.ssl.fastly.net【第二个链接】
+185.199.108.153 assets-cdn.github.com【第三个链接】
+185.199.110.153 assets-cdn.github.com
+185.199.111.153 assets-cdn.github.com
